@@ -1,0 +1,63 @@
+Rol: Doctor
+opciones:
+*Gestionar pacientes:
+             Diagnostico insert into, select
+             Tratamiento update
+ 
+Rol: Contador
+Opciones: 
+       Agregar insert
+       Consultar select
+       Modificar update
+      
+Rol: recursos humanos (RHHH)
+p
+             Agregar insert
+             Consultar select
+             Modificar update
+
+Rol: Proveedor 
+opciones: 
+         agregar insert
+         modificar update
+
+Rol: Reservación
+opciones:
+     agregar insert
+     modificar update
+     
+
+Rol: Empleado(depende que area)
+ opciones:
+        agregar insert     
+
+
+Rol: Medicamentos
+opciones:
+       agregar insert
+       modificar update
+       consultar select
+
+Rol: enfermera
+opciones:
+      agregar insert
+      moficar update
+      consultar select
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
